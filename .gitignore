@@ -158,3 +158,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+data/curso-274931-aula-01-prof-stefan-fantini-b870-simplificado.pdf
+data/curso-274931-aula-02-prof-stefan-fantini-236c-simplificado.pdf
+data/curso-274931-aula-03-prof-stefan-fantini-2f80-simplificado.pdf
+research/curso-274931-aula-01-prof-stefan-fantini-b870-simplificado.csv
+research/curso-274931-aula-02-prof-stefan-fantini-236c-simplificado.csv
+research/curso-274931-aula-03-prof-stefan-fantini-2f80-simplificado.csv
+research/generative_card.csv
