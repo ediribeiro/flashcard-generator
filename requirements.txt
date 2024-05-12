@@ -1,9 +1,8 @@
 openai
 langchain
+langchain_openai
 streamlit
 python-dotenv
 PyPDF2
 datetime
-pathlib
-
 -e .
